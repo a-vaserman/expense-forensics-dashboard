@@ -1,1 +1,1 @@
-# expense-forensics-dashboard
+# Expense Forensics Dashboard
